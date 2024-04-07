@@ -5,6 +5,8 @@ dicho boton al dar click usara el metodo PUT, para marcar la tarea como "Complet
 
   La Api usa get y post para consultar en un arreglo de datos 2 tareas definidas en un inicio.
 **Importante ejecutar esta linea de codigos si no posee Flask instalado en su equipo personal luego de clonar el repositorio**
+
+
 pip install -r requirements.txt
 
 *Una vez instalados las dependencias abra en una terminal de python como puede ser Visual Studio code, el archivo llamado* **app.py**
