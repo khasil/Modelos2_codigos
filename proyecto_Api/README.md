@@ -12,3 +12,6 @@ pip install -r requirements.txt
 *Una vez instalados las dependencias abra en una terminal de python como puede ser Visual Studio code, el archivo llamado* **app.py**
 Y ejecutelo, esto abrira una instancia de Flask y automaticamente abrira una ventana en su navegador web por defecto 
 usando la direccion 127.0.0.1:5000 , verifique que no tiene conflictos para usar dicho puerto.
+
+Una vez alli podra usar la agenda de tareas temporal.
+puede usar el visualizador experto de tareas del navegador web , y corroborar en el apartado "Red" que se estan usando los metodos descritos
