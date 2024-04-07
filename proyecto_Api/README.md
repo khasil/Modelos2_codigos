@@ -1,5 +1,5 @@
-Este proyecto consta de una pequeña Api-rest que funciona como una pequeña agenda temporal de tareas
-Use el boton Agregar tareas para crear una lista temporal de tareas a realizar
+Este proyecto consta de una pequeña Api-rest que funciona como una pequeña agenda TEMPORALES de tareas,
+Use el boton Agregar tareas para crear una lista temporal de tareas a realizar,
 posterior a agregarlas se iran visualizando en la parte superior y contaran con un boton con una leyenda que dice "Completar"
 dicho boton al dar click usara el metodo PUT, para marcar la tarea como "Completado"  y asi seguir agregando tareas.
 
